@@ -1,7 +1,7 @@
 #pragma once
 
-#define MATRIX_ROWS 4
-#define MATRIX_COLS 13
+#define MATRIX_ROWS 5
+#define MATRIX_COLS 14
 
 #define ENCODERS 2
 #define ENCODER_RESOLUTION 4
