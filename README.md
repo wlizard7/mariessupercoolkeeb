@@ -17,7 +17,7 @@ The firmware was made with QMK. I don't know all much about coding but I was abl
 
 # Case
 
-I made the case in Fusion360! I'd like to say I'm semi well verse with CAD so it wasn't all that difficult besides the plate which took me a while.
+I made the case in Fusion360! I'd like to say I'm semi well versed with CAD so it wasn't all that difficult besides the plate which took me a while.
 
 <img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/c554b22a-7dde-4272-8d43-3920819e5b0c" />
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/474f9983-12a5-44f4-b78a-aa693c76c4f2" />
