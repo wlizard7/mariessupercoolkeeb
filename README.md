@@ -25,6 +25,7 @@ I made the case in Fusion360! I'd like to say I'm semi well versed with CAD so i
 # BOM
 
 | Product | Quantity | Source | Price($) | Link |
+| :-----: | :-----: | :-----: | :-----: |  :-----: |
 | 3D Printed Case | - | School Printer | - | - |
 | Key Stabilizers | 1 | AliExpress | $5.19 | https://a.aliexpress.com/_mPFUoOH |
 | Keycaps | 1 | AliExpress | $8.17 | https://a.aliexpress.com/_mLLmu53 |
