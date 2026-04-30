@@ -36,8 +36,8 @@ I made the case in Fusion360! I'd like to say I'm semi well versed with CAD so i
 | 0.91 inch OLED display | 1 | AliExpress |$2.37 | https://a.aliexpress.com/_mNspyVF |
 | Raspberry Pi Pico | 1 | AliExpress |$3.96| https://a.aliexpress.com/_m0asVHP |
 | SK6812 MINI-E | 70 | AliExpress |$3.50 | https://a.aliexpress.com/_m0NRr4N |
-
-
+| M3 Threaded Inserts | 12 | Have Already | - | - |
+| M3 Screws | 12 | Have Already | - | - |
 
 
 
