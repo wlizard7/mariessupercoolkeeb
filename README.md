@@ -27,7 +27,7 @@ I made the case in Fusion360! I'd like to say I'm semi well versed with CAD so i
 | Product | Quantity | Source | Price($) | Link |
 | :-----: | :-----: | :-----: | :-----: |  :-----: |
 | 3D Printed Case | - | School Printer | - | - |
-| Key Stabilizers | 1 | AliExpress | $5.19 | https://a.aliexpress.com/_mPFUoOH |
+| Key Stabilizers | 5 | AliExpress | $5.19 | https://a.aliexpress.com/_mPFUoOH |
 | Keycaps | 1 | AliExpress | $8.17 | https://a.aliexpress.com/_mLLmu53 |
 | Switches | 70 | TikTok Shop | $20.00 | https://www.tiktok.com/t/ZP98jg52vnE6u-AkbOb/ |
 | PCB | 1 | JLCPCB | $23.60 | - |
