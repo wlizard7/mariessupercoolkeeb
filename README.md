@@ -22,6 +22,11 @@ I made the case in Fusion360! I'd like to say I'm semi well versed with CAD so i
 <img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/c554b22a-7dde-4272-8d43-3920819e5b0c" />
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/474f9983-12a5-44f4-b78a-aa693c76c4f2" />
 
+# Final Product
+
+<img width="872" height="361" alt="image" src="https://github.com/user-attachments/assets/a7f5bd1b-60e0-4cc2-8d2a-c8a8bf85061b" />
+
+
 # BOM
 
 | Product | Quantity | Source | Price($) | Link |
